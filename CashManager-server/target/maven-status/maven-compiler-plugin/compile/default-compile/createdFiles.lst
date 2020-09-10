@@ -1,0 +1,6 @@
+eu\epitech\cashmanager31\cashmanager\service\CustomerService.class
+eu\epitech\cashmanager31\cashmanager\service\ICustomerService.class
+eu\epitech\cashmanager31\cashmanager\repository\CustomerRepository.class
+eu\epitech\cashmanager31\cashmanager\Application.class
+eu\epitech\cashmanager31\cashmanager\controller\CustomerController.class
+eu\epitech\cashmanager31\cashmanager\model\Customer.class
